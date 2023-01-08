@@ -75,7 +75,7 @@ const Heroarea = (props) => {
         <div
           // style={{ cursor: "pointer" }}
           onClick={() => {
-            navigate("/dash");
+
             setIsOpen(!isOpen);
             props.expandState(isOpen);
           }}
