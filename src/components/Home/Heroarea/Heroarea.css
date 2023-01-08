@@ -59,6 +59,7 @@
   padding: 20px 50px;
   border: none;
   z-index: 2;
+  cursor: pointer;
 }
 .button__text {
   font-size: 25px;
