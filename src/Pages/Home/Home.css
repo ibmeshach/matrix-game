@@ -1,7 +1,0 @@
-.home__container {
-    width: 100%;
-    background-color: var(--bg-color);
-    display: flex;
-    flex-direction: column;
-    gap: 40px;
-}
